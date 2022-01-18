@@ -1,6 +1,8 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,pycharm,macos,linux,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,pycharm,macos,linux,python
+### own stuff ###
+# ignore biapol
+notebooks/biapol_utilities
+
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
